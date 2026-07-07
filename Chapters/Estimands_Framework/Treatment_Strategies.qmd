@@ -1,0 +1,32 @@
+# Treatment Strategies {#sec-Treatment_Strategies}
+A strategy describes how a specific intercurrent event is accounted for in the estimand (see @sec-intercurrent-events). ICH E9 (R1) sets out five strategies. Different events in the same trial can use different strategies, so there is no need to handle them all the same way.
+
+
+## Treatment policy {#sec-Treatment_Policy}
+The occurrence of the intercurrent event is ignored. The endpoint value is used whether or not the event happened. The event becomes part of the treatment conditions being compared.
+
+This strategy matches the classical intention-to-treat idea. It reflects clinical practice, because it includes what patients actually do after starting treatment. One limitation is important: it cannot be used when the endpoint cannot exist after the event, such as an outcome measured after death.
+
+
+## Composite {#sec-Composite}
+The intercurrent event is built into the endpoint itself. The event is combined with the clinical outcome to form a single variable.
+
+For example, a subject might be counted as a responder only if they reach a target and did not need rescue medication. This is useful when the event is itself a meaningful outcome. If the endpoint is turned into responder / non-responder, the clinical threshold must be justified.
+
+
+## Hypothetical {#sec-Hypothetical}
+We imagine a scenario in which the intercurrent event does not occur. The value of interest is the one the endpoint would have taken in that scenario.
+
+The hypothetical scenario must be described carefully, because the estimand is not well defined without it. Not every scenario is acceptable to regulators. "What effect would we see if rescue medication had not been available?" may be acceptable. "What effect would we see if no one discontinued due to adverse events?" is often not of clinical or regulatory interest.
+
+
+## Principal stratum {#sec-Principal_Stratum}
+The population is restricted to the stratum of patients who would not experience the intercurrent event, regardless of the treatment they were assigned. The effect is estimated within that stratum.
+
+This is defined by potential behaviour under both treatments, not by observed data. It must not be confused with a per-protocol set, a complete-case set, or any subgroup defined by post-randomisation data.
+
+
+## While on treatment {#sec-While_on_Treatment}
+The response is measured up to the time of the intercurrent event, rather than at the planned assessment point.
+
+This can be relevant in symptom trials with terminally ill patients. An underlying assumption is that the timing does not matter, for example that the rate of change over time is constant.

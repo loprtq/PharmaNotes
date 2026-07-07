@@ -1,0 +1,2 @@
+# Estimands {#sec-Estimands}
+An estimand is a precise description of the treatment effect that a trial sets out to measure. Its purpose is simple; it separates the question "*what do we want to estimate?*" from the estimator, which answers "*how do we estimate it?*". An estimand is defined by: treatment, population, variable, endpoint, and intercurrent events (see @sec-Intercurrent_Events), all elements that must be clearly specified to ensure the trial's objectives are accurately addressed.

@@ -1,0 +1,4 @@
+# Multiplicity {#sec-Multiplicity}
+Most clinical trials test more than one thing. They may include several treatments, objectives, endpoints, and hypotheses. Every extra test adds a fresh chance of a false-positive result. So a p-value must always be read in the context of how many hypotheses were tested and how important each one is.
+
+The formal goal is strong control of the family-wise type I error rate. This keeps the probability of any false-positive claim within the family of hypotheses at or below the target level, usually 5% (two-sided).

@@ -1,0 +1,30 @@
+# Clinical Trial Phases {#sec-Clinical_Trial_Phases}
+Drug development is organized into sequential phases to manage risk and answer questions in a logical order. Early phases expose only a small number of people to a largely untested compound and focus on safety; later phases progressively enlarge the population to establish efficacy and detect rarer effects once an acceptable safety profile has been demonstrated. This staged design protects participants, lets sponsors stop a failing programme before committing further resources, and builds the cumulative evidence that each subsequent phase depends on. Regulators require this evidence to accumulate in order before a drug can be approved and marketed.
+
+
+## Phase I {#sec-Phase_I}
+First administration in humans, usually in a small group of healthy volunteers. The goal is to assess safety, tolerability, pharmacokinetics, and pharmacodynamics, and to identify a safe dose range rather than to demonstrate efficacy.
+
+### Phase 1a {#sec-Phase_1a}
+Single ascending dose (SAD) studies: individual participants (or small cohorts) receive a single dose, which is escalated across cohorts to find the maximum tolerated dose.
+
+### Phase 1b {#sec-Phase_1b}
+Multiple ascending dose (MAD) studies: participants receive repeated doses to characterize safety and pharmacokinetics under steady-state, more realistic dosing conditions.
+
+
+## Phase II {#sec-Phase_II}
+Conducted in a larger group of patients with the target condition. The focus shifts to preliminary efficacy and dose-finding while continuing to monitor safety and side effects.
+
+### Phase 2a {#sec-Phase_2a}
+Typically small, proof-of-concept studies designed to establish whether the drug shows the intended biological or clinical effect and to explore dosing.
+
+### Phase 2b {#sec-Phase_2b}
+Larger, more rigorous studies aimed at confirming the optimal dose and efficacy signal to inform the design of pivotal Phase III trials.
+
+
+## Phase III {#sec-Phase_III}
+Large, randomized, often multi-centre confirmatory trials (hundreds to thousands of patients) that establish efficacy and safety against a control (placebo or active comparator). These are the pivotal trials supporting regulatory submission and marketing approval.
+
+
+## Phase IV {#sec-Phase_IV}
+Post-marketing surveillance conducted after approval. These studies monitor long-term effectiveness and safety in routine clinical use, detect rare or delayed adverse events, and may support new indications or label changes.

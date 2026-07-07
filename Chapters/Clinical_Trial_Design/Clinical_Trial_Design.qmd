@@ -1,0 +1,27 @@
+# Clinical Trial Design {#sec-Clinical_Trial_Design}
+
+
+## Study Type {#sec-Study_Type}
+### Randomized Clinical Trials {#sec-Randomized_Clinical_Trials}
+### Observational Studies {#sec-Observational_Studies}
+### Real-World Evidence {#sec-Real_World_Evidence}
+
+
+## Structure and Allocation {#sec-Structure_Allocation}
+### Parallel Group Trial Design {#sec-Parallel_Group_Trial_Design}
+### Cross-Over Design {#sec-Cross_Over_Design}
+### Factorial Design {#sec-Factorial_Design}
+### Withdrawal Trial {#sec-Withdrawal_Trial}
+
+
+## Comparator {#sec-Comparator}
+### Control Groups {#sec-Control_Groups}
+### Active Groups {#sec-Active_Groups}
+    
+
+## Analysis Objective {#sec-Analysis_Objective}
+### Superiority, Non-Inferiority, and Equivalence {#sec-Superiority_Non-Inferiority_Equivalence}
+
+
+## Adaptivity {#sec-Adaptivity}
+### Adaptive Design {#sec-Adaptive_Design}

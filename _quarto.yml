@@ -1,0 +1,65 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "PharmaNotes"
+  author: "Jonas Benjamin Rose Aldous"
+  date: last-modified
+  date-format: long
+  sidebar:
+    title: "PharmaNotes"
+    search: true
+  
+  chapters:
+    - index.qmd
+      
+    - part: "Clinical Trial Design"
+      chapters:
+        - Chapters/Clinical_Trial_Design/Clinical_Trial_Phases.qmd
+        - Chapters/Clinical_Trial_Design/Clinical_Trial_Design.qmd
+        - Chapters/Clinical_Trial_Design/Randomization.qmd
+        - Chapters/Clinical_Trial_Design/Blinding.qmd
+
+    - part: "Estimands Framework"
+      chapters:
+        - Chapters/Estimands_Framework/Estimands.qmd
+        - Chapters/Estimands_Framework/Intercurrent_Events.qmd
+        - Chapters/Estimands_Framework/Treatment_Strategies.qmd
+      
+    - part: "Statistical Considerations"
+      chapters:
+        - Chapters/Statistical_Considerations/Endpoints.qmd
+        - Chapters/Statistical_Considerations/Analysis_Populations.qmd
+        - Chapters/Statistical_Considerations/Statistical_Power.qmd
+        - Chapters/Statistical_Considerations/Sample_Size.qmd
+        - Chapters/Statistical_Considerations/Multiplicity.qmd
+        - Chapters/Statistical_Considerations/Interim_Analyses.qmd
+
+    - part: "Missing Data and Sensitivity"
+      chapters:
+        - Chapters/Missing_Data/Missing_Data.qmd
+        - Chapters/Missing_Data/Sensitivity_Analyses.qmd
+        - Chapters/Missing_Data/Supplementary_Analyses.qmd
+
+    - part: "Clinical Reporting"
+      chapters:
+        - Chapters/Clinical_Reporting/Clinical_Reporting.qmd
+        - Chapters/Clinical_Reporting/Clinical_Documents.qmd
+
+reference-section-title: "References"
+bibliography:
+  - Bibliography/articles.bib
+  - Bibliography/books.bib
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    css: styles.css
+    page-layout: full
+    grid:
+      body-width: 1200px
+
+nameref:
+  section-number: true

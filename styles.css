@@ -1,0 +1,25 @@
+/* Section headers */
+h2 {
+  border-bottom: none !important;
+  padding-bottom: 0 !important; 
+}
+
+/* Code blocks */
+pre code {
+  line-height: 1;
+}
+
+/* Example environments */
+.example {
+  background-color: #F8F9FA;
+  border-left: 3px solid #2B6CB0;
+  padding: 1em 1.25em;
+  border-radius: 4px;
+}
+
+/* Math options */
+
+/* Table options */
+caption, .table-caption {
+  text-align: left;
+}
