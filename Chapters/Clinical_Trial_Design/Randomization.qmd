@@ -1,1 +1,18 @@
 # Randomization {#sec-Randomization}
+Randomization is the allocation of participants to treatment arms by a chance mechanism rather than by choice. Its purpose is to remove bias at the point of allocation (where blinding (see @sec-Blinding) protects against bias afterwards) and to balance both known and unknown prognostic factors across treatment arms, so that any systematic difference observed at the end of the clinical trial can be attributed to treatment rather than to how participants were assigned. It also provides the formal justification for the statistical inference that follows, since randomization itself creates the basis for the comparison.
+
+
+## Simple Randomization {#sec-Simple_Randomization}
+Each participant is allocated independently, for example by the equivalent of a coin toss for a two-arm trial. This is straightforward and completely unpredictable, which makes concealment easy. Its weakness is that, purely by chance, it can produce noticeable imbalance in the number of participants per arm, and this imbalance is most pronounced in small trials. In large trials the imbalance tends to be negligible, so simple randomization is most appropriate when the sample size (see @sec-Sample_Size) is large.
+
+
+## Block Randomization {#sec-Block_Randomization}
+Participants are allocated in blocks so that the arms stay balanced after every completed block. Within each block the allocation ratio is fixed, which keeps the arm sizes close throughout recruitment and is useful when enrolment is staggered over time. The block size must be concealed, because a predictable block length allows the final allocations in a block to be guessed, threatening concealment; using varying and undisclosed block sizes mitigates this risk.
+
+
+## Stratified Randomization {#sec-Stratified_Randomization}
+When a small number of prognostic factors are known to strongly influence the outcome, separate randomization lists are prepared within each stratum defined by those factors, most often combined with block randomization inside each stratum. This guarantees balance on the chosen factors rather than relying on chance, but the number of strata must be kept small, since too many strata relative to the sample size undermines the scheme. Any factor used for stratification should generally also be accounted for in the analysis.
+
+
+## Allocation Concealment {#sec-Allocation_Concealment}
+Allocation concealment ensures that the person enrolling a participant cannot foresee the upcoming assignment before the participant is irrevocably entered into the trial. It differs from blinding: concealment protects the integrity of the allocation process itself, whereas blinding protects conduct and assessment after allocation. In practice this is achieved through a central randomization system, so that the assignment is issued only once eligibility is confirmed and the participant is committed to the trial.
