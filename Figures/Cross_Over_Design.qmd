@@ -1,0 +1,30 @@
+```{dot}
+//| label: fig-cross-over
+//| fig-cap: "Cross-over design (AB / BA)."
+digraph crossover {
+    rankdir=LR;
+    bgcolor="transparent";
+    node [fontname="Helvetica", fontcolor="white", style="filled", fillcolor="#4C72B0", penwidth=0];
+    edge [fontname="Helvetica", color="#9aa0a6", fontcolor="#5f6368", arrowsize=0.8];
+
+    E   [label="Enrol",   shape=circle,       width=0.9];
+    R   [label="R",       shape=circle,       width=0.7];
+    A1  [label="A",       shape=box,          style="filled,rounded", fillcolor="#DDE1E4", fontcolor="#333333"];
+    B1  [label="B",       shape=box,          style="filled,rounded", fillcolor="#DDE1E4", fontcolor="#333333"];
+    W1  [label="wash",    shape=circle,       fillcolor="#DDE1E4", fontcolor="#333333", width=0.6];
+    W2  [label="wash",    shape=circle,       fillcolor="#DDE1E4", fontcolor="#333333", width=0.6];
+    A2  [label="A",       shape=box,          style="filled,rounded", fillcolor="#DDE1E4", fontcolor="#333333"];
+    B2  [label="B",       shape=box,          style="filled,rounded", fillcolor="#DDE1E4", fontcolor="#333333"];
+    O   [label="Endpoint",shape=doublecircle, width=0.9];
+
+    E -> R;
+    R -> A1;
+    R -> B1;
+    A1 -> W1 -> B2 -> O;
+    B1 -> W2 -> A2 -> O;
+}
+```
+
+Each participant receives both treatments in sequence, separated by a washout period, and so acts as their own control.[^cross-over]
+
+[^cross-over]: **Cross-over design.** *R* = randomization to a treatment order; sequence **A -> B** takes A first then B, sequence **B -> A** the reverse; *wash* = washout period allowing the first treatment to clear before the second begins; *Endpoint* = outcome assessed in each period. Because within-subject comparisons remove between-person variability, cross-over trials are efficient but require stable, reversible conditions and no carry-over.

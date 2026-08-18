@@ -1,0 +1,26 @@
+```{dot}
+//| label: fig-parallel-group
+//| fig-cap: "Parallel group design."
+digraph parallel {
+    rankdir=LR;
+    bgcolor="transparent";
+    node [fontname="Helvetica", fontcolor="white", style="filled", fillcolor="#4C72B0", penwidth=0];
+    edge [fontname="Helvetica", color="#9aa0a6", fontcolor="#5f6368", arrowsize=0.8];
+
+    E   [label="Enrol",   shape=circle,       width=0.9];
+    R   [label="R",       shape=circle,       width=0.7];
+    A   [label="Arm A",   shape=box,          style="filled,rounded", fillcolor="#DDE1E4", fontcolor="#333333"];
+    B   [label="Arm B",   shape=box,          style="filled,rounded", fillcolor="#DDE1E4", fontcolor="#333333"];
+    O   [label="Endpoint",shape=doublecircle, width=0.9];
+
+    E -> R;
+    R -> A;
+    R -> B;
+    A -> O;
+    B -> O;
+}
+```
+
+Participants are randomized once and each arm receives a single treatment for the whole trial.[^parallel-group]
+
+[^parallel-group]: **Parallel group design.** *Enrol* = enrolment; *R* = single randomization; *Arm A* / *Arm B* = the treatment groups (e.g. experimental vs. control), each followed independently; *Endpoint* = outcome assessment. Groups never cross over, so between-group differences estimate the treatment effect directly.

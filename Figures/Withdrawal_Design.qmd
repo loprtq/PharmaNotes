@@ -1,0 +1,31 @@
+```{dot}
+//| label: fig-withdrawal
+//| fig-cap: "Randomized withdrawal design."
+digraph withdrawal {
+    rankdir=LR;
+    bgcolor="transparent";
+    node [fontname="Helvetica", fontcolor="white", style="filled", fillcolor="#4C72B0", penwidth=0];
+    edge [fontname="Helvetica", color="#9aa0a6", fontcolor="#5f6368", arrowsize=0.8];
+
+    E    [label="Enrol",      shape=circle,       width=0.9];
+    RI   [label="Run-in",     shape=box,          style="filled,rounded", fillcolor="#DDE1E4", fontcolor="#333333"];
+    RES  [label="Responder?", shape=diamond,      height=0.9];
+    D    [label="Out",        shape=circle,       fillcolor="#DDE1E4", fontcolor="#333333", width=0.7];
+    R    [label="R",          shape=circle,       width=0.7];
+    C    [label="Continue",   shape=box,          style="filled,rounded", fillcolor="#DDE1E4", fontcolor="#333333"];
+    P    [label="Placebo",    shape=box,          style="filled,rounded", fillcolor="#DDE1E4", fontcolor="#333333"];
+    O    [label="Endpoint",   shape=doublecircle, width=0.9];
+
+    E -> RI -> RES;
+    RES -> D  [label="no"];
+    RES -> R  [label="yes"];
+    R -> C;
+    R -> P;
+    C -> O;
+    P -> O;
+}
+```
+
+All participants first receive active treatment; responders are then randomized to continue treatment or switch to placebo.[^withdrawal]
+
+[^withdrawal]: **Randomized withdrawal design.** *Run-in* = open-label phase in which everyone receives the active drug; *Responder?* = only participants who improve continue, non-responders exit (*Out*); *R* = randomization of responders to *Continue* active treatment or switch to *Placebo*; *Endpoint* = outcome assessment. Loss of effect after withdrawal to placebo demonstrates that the observed benefit depends on ongoing treatment.

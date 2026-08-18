@@ -1,0 +1,32 @@
+```{dot}
+//| label: fig-factorial
+//| fig-cap: "2x2 factorial design."
+digraph factorial {
+    rankdir=LR;
+    bgcolor="transparent";
+    node [fontname="Helvetica", fontcolor="white", style="filled", fillcolor="#4C72B0", penwidth=0];
+    edge [fontname="Helvetica", color="#9aa0a6", fontcolor="#5f6368", arrowsize=0.8];
+
+    E   [label="Enrol",   shape=circle,       width=0.9];
+    R   [label="R",       shape=circle,       width=0.7];
+    G1  [label="A + B",   shape=box,          style="filled,rounded", fillcolor="#DDE1E4", fontcolor="#333333"];
+    G2  [label="A only",  shape=box,          style="filled,rounded", fillcolor="#DDE1E4", fontcolor="#333333"];
+    G3  [label="B only",  shape=box,          style="filled,rounded", fillcolor="#DDE1E4", fontcolor="#333333"];
+    G4  [label="Neither", shape=box,          style="filled,rounded", fillcolor="#DDE1E4", fontcolor="#333333"];
+    O   [label="Endpoint",shape=doublecircle, width=0.9];
+
+    E -> R;
+    R -> G1;
+    R -> G2;
+    R -> G3;
+    R -> G4;
+    G1 -> O;
+    G2 -> O;
+    G3 -> O;
+    G4 -> O;
+}
+```
+
+Two interventions are randomized independently, so a single trial evaluates each treatment and their interaction.[^factorial]
+
+[^factorial]: **2x2 factorial design.** Two factors (treatment A and treatment B) are each given or withheld, producing four arms: *A + B* (both active), *A only*, *B only*, and *Neither* (double placebo). Comparing rows estimates the effect of A, comparing columns the effect of B, and the four cells together reveal any interaction. It is efficient when the two treatments are not expected to interfere with one another.
