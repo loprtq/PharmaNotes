@@ -1,0 +1,8 @@
+:::{#exm-Cox_Sample_Size}
+## Statistical Power and Sample Size for a Cox Proportional Hazards Model
+Suppose an oncology trial compares an active treatment with control on progression-free survival, analysed with a Cox proportional hazards model. Here the statistical power depends on the number of events observed, not directly on the number of participants. We assume:
+
+- a target hazard ratio $\text{HR} = 0.80$ (a 20% reduction in the hazard),
+- two-sided $\alpha = 0.05$ and 90% power,
+- 1:1 allocation.
+:::

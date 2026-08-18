@@ -1,0 +1,9 @@
+:::{#exm-MMRM_Sample_Size}
+## Statistical Power and Sample Size for an MMRM
+Suppose a diabetes trial compares an active treatment with placebo on the change from baseline in HbA1c at week 52, with visits at weeks 0, 12, 24, 36 and 52. The primary comparison is the treatment difference at the final visit, estimated by an MMRM. To determine the required sample size, we assume:
+
+- a clinically difference of $\Delta = 0.4$,
+- a standard deviation of the endpoint $\sigma = 0.1$,
+- two-sided $\alpha = 0.05$ and 95% power,
+- 1:1 allocation.
+:::
