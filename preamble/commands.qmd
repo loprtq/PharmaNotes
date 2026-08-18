@@ -1,0 +1,45 @@
+::: {.hidden}
+$$
+% Basic sets/Variables
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\N}{\mathbb{N}}
+\newcommand{\Z}{\mathbb{Z}}
+\newcommand{\Q}{\mathbb{Q}}
+
+% Probability and statistics
+\newcommand{\Pr}[1]{\mathbb{P}\left(#1\right)}
+\newcommand{\E}[1]{\mathbb{E}\left[#1\right]}
+\newcommand{\Var}[1]{\operatorname{Var}\left[#1\right]}
+\newcommand{\Cov}[1]{\operatorname{Cov}\left[#1\right]}
+\newcommand{\Cor}[1]{\operatorname{Cor}\left[#1\right]}
+
+% 
+\newcommand{\lik}[1]{\mathcal{L}\left(#1\right)}
+\newcommand{\loglik}[1]{\ell\left(#1\right)}
+
+% Linear algebra
+\renewcommand{\det}[1]{\operatorname{det}\left(#1\right)}
+
+% Math functions
+\renewcommand{\exp}[1]{\operatorname{exp}\left(#1\right)}
+\renewcommand{\log}[1]{\operatorname{log}\left(#1\right)}
+\newcommand{\ln}[1]{\operatorname{ln}\left(#1\right)}
+\newcommand{\abs}[1]{\left|#1\right|}
+
+% Distributions
+\newcommand{\Ber}[1]{\operatorname{B}\left(#1\right)}
+\newcommand{\Nd}[1]{\operatorname{N}\left(#1\right)}
+\newcommand{\Ud}[1]{\operatorname{U}\left(#1\right)}
+\newcommand{\Gamd}[1]{\operatorname{Gamma}\left(#1\right)}
+\newcommand{\Geom}[1]{\operatorname{Geom}\left(#1\right)}
+\newcommand{\Betad}[1]{\operatorname{Beta}\left(#1\right)}
+\newcommand{\Ed}[1]{\operatorname{Exp}\left(#1\right)}
+\newcommand{\Pd}[1]{\operatorname{Po}\left(#1\right)}
+\newcommand{\Bin}[1]{\operatorname{Bin}\left(#1\right)}
+\newcommand{\NegBin}[1]{\operatorname{NegBin}\left(#1\right)}
+
+% Update symbols
+\renewcommand{\epsilon}{\varepsilon}
+\renewcommand{\sim}{\thicksim}
+$$
+:::
