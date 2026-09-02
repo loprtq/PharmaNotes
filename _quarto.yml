@@ -32,7 +32,6 @@ book:
         - Chapters/Statistical_Considerations/Endpoints.qmd
         - Chapters/Statistical_Considerations/Analysis_Populations.qmd
         - Chapters/Statistical_Considerations/Statistical_Power.qmd
-        - Chapters/Statistical_Considerations/Sample_Size.qmd
         - Chapters/Statistical_Considerations/Multiplicity.qmd
         - Chapters/Statistical_Considerations/Interim_Analyses.qmd
 
@@ -44,13 +43,18 @@ book:
 
     - part: "Clinical Reporting"
       chapters:
-        - Chapters/Clinical_Reporting/Clinical_Reporting.qmd
-        - Chapters/Clinical_Reporting/Clinical_Documents.qmd
+        - Chapters/Clinical_Reporting/Clinical_Study_Report.qmd
+        - Chapters/Clinical_Reporting/Clinical_Trial_Protocol.qmd
+        - Chapters/Clinical_Reporting/Statistical_Analysis_Plan.qmd
 
+    - references.qmd
+
+    
 reference-section-title: "References"
 bibliography:
   - Bibliography/articles.bib
   - Bibliography/books.bib
+  - Bibliography/guidelines.bib
 
 format:
   html:
