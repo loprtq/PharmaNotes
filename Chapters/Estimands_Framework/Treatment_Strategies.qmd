@@ -1,5 +1,5 @@
 # Treatment Strategies {#sec-Treatment_Strategies}
-A strategy describes how a specific intercurrent event is accounted for in the estimand (see @sec-intercurrent-events). ICH E9 (R1) sets out five strategies. Different events in the same trial can use different strategies, so there is no need to handle them all the same way.
+A treatment strategy describes how a specific intercurrent event (see @sec-Intercurrent_Events) is accounted for in the estimand. [@ICHE9R1] sets out five treatment strategies. Different intercurrent events in the same trial can use different strategies, depending on the desired clinical question.
 
 
 ## Treatment policy {#sec-Treatment_Policy}
