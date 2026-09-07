@@ -1,1 +1,10 @@
 # Sensitivity Analyses {#sec-Sensitivity_Analyses}
+Sensitivity analyses explore the robustness of the primary analysis when key assumptions are varied [@ICHE9R1]. Often, a sensitivity analysis is performed to assess the impact of missing data on the primary analysis. The primary analysis is typically based on a set of assumptions about the missing data mechanism, and sensitivity analyses can help evaluate how sensitive the results are to these assumptions. Sensitivity analyses can help identify potential biases and provide a more comprehensive understanding of the treatment effect.
+
+
+## Tipping Point Analyses {#sec-Tipping_Point_Analyses}
+Tipping point analyses are a type of sensitivity analysis that systematically vary the assumptions about missing data to determine the point at which the conclusions of the primary analysis would change. This helps to identify how sensitive the results are to different assumptions and can provide insight into the potential impact of missing data on the study's conclusions.
+
+
+## Reference-Based Imputation {#sec-Reference_Based_Imputation}
+## Jump to Reference {#sec-Jump_to_Reference}
