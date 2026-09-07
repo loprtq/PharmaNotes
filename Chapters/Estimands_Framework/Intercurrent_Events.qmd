@@ -1,4 +1,0 @@
-# Intercurrent Events {#sec-intercurrent-events}
-
-
-## Adverse Events {#sec-adverse-events}

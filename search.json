@@ -1,0 +1,384 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "PharmaNotes",
+    "section": "",
+    "text": "1 Introduction\nPharmaNotes is a concise information resource on clinical trials. The emphasis throughout is on the why as much as the how. A clinical trial is a long chain of choices, from the phase and design of the study, through the precise definition of the treatment effect of interest, to the handling of missing data and the reporting of results. Each link in that chain is easier to justify when its purpose is clearly understood, and this book aims to make those purposes explicit.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#how-to-use-it",
+    "href": "index.html#how-to-use-it",
+    "title": "PharmaNotes",
+    "section": "1.1 How to use it",
+    "text": "1.1 How to use it\nThe chapters are largely self-contained and can be read in any order, but they are extensively cross-referenced so that related ideas can be followed as they arise. Terms and concepts introduced in one chapter are linked wherever they reappear, and full citations to the underlying guidelines and literature are collected in the References.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "Chapters/Clinical_Trial_Design/Clinical_Trial_Phases.html",
+    "href": "Chapters/Clinical_Trial_Design/Clinical_Trial_Phases.html",
+    "title": "2  Clinical Trial Phases",
+    "section": "",
+    "text": "2.1 Phase I\nDrug development is organized into sequential phases to manage risk and answer questions in a logical order. Early phases expose only a small number of people to a largely untested compound and focus on safety; later phases progressively enlarge the population to establish efficacy and detect rarer effects once an acceptable safety profile has been demonstrated. This staged design protects participants, lets sponsors stop a failing programme before committing further resources, and builds the cumulative evidence that each subsequent phase depends on. Regulators require this evidence to accumulate in order before a drug can be approved and marketed.\nFirst administration in humans, usually in a small group of healthy volunteers. The goal is to assess safety, tolerability, pharmacokinetics, and pharmacodynamics, and to identify a safe dose range rather than to demonstrate efficacy.",
+    "crumbs": [
+      "Clinical Trial Design",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Clinical Trial Phases</span>"
+    ]
+  },
+  {
+    "objectID": "Chapters/Clinical_Trial_Design/Clinical_Trial_Phases.html#sec-Phase_I",
+    "href": "Chapters/Clinical_Trial_Design/Clinical_Trial_Phases.html#sec-Phase_I",
+    "title": "2  Clinical Trial Phases",
+    "section": "",
+    "text": "2.1.1 Phase 1a\nSingle ascending dose (SAD) studies: individual participants (or small cohorts) receive a single dose, which is escalated across cohorts to find the maximum tolerated dose.\n\n\n2.1.2 Phase 1b\nMultiple ascending dose (MAD) studies: participants receive repeated doses to characterize safety and pharmacokinetics under steady-state, more realistic dosing conditions.",
+    "crumbs": [
+      "Clinical Trial Design",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Clinical Trial Phases</span>"
+    ]
+  },
+  {
+    "objectID": "Chapters/Clinical_Trial_Design/Clinical_Trial_Phases.html#sec-Phase_II",
+    "href": "Chapters/Clinical_Trial_Design/Clinical_Trial_Phases.html#sec-Phase_II",
+    "title": "2  Clinical Trial Phases",
+    "section": "2.2 Phase II",
+    "text": "2.2 Phase II\nConducted in a larger group of patients with the target condition. The focus shifts to preliminary efficacy and dose-finding while continuing to monitor safety and side effects.\n\n2.2.1 Phase 2a\nTypically small, proof-of-concept studies designed to establish whether the drug shows the intended biological or clinical effect and to explore dosing.\n\n\n2.2.2 Phase 2b\nLarger, more rigorous studies aimed at confirming the optimal dose and efficacy signal to inform the design of pivotal Phase III trials.",
+    "crumbs": [
+      "Clinical Trial Design",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Clinical Trial Phases</span>"
+    ]
+  },
+  {
+    "objectID": "Chapters/Clinical_Trial_Design/Clinical_Trial_Phases.html#sec-Phase_III",
+    "href": "Chapters/Clinical_Trial_Design/Clinical_Trial_Phases.html#sec-Phase_III",
+    "title": "2  Clinical Trial Phases",
+    "section": "2.3 Phase III",
+    "text": "2.3 Phase III\nLarge, randomized, often multi-centre confirmatory trials (hundreds to thousands of patients) that establish efficacy and safety against a control (placebo or active comparator). These are the pivotal trials supporting regulatory submission and marketing approval.",
+    "crumbs": [
+      "Clinical Trial Design",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Clinical Trial Phases</span>"
+    ]
+  },
+  {
+    "objectID": "Chapters/Clinical_Trial_Design/Clinical_Trial_Phases.html#sec-Phase_IV",
+    "href": "Chapters/Clinical_Trial_Design/Clinical_Trial_Phases.html#sec-Phase_IV",
+    "title": "2  Clinical Trial Phases",
+    "section": "2.4 Phase IV",
+    "text": "2.4 Phase IV\nPost-marketing surveillance conducted after approval. These studies monitor long-term effectiveness and safety in routine clinical use, detect rare or delayed adverse events, and may support new indications or label changes.",
+    "crumbs": [
+      "Clinical Trial Design",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Clinical Trial Phases</span>"
+    ]
+  },
+  {
+    "objectID": "Chapters/Clinical_Trial_Design/Clinical_Trial_Design.html",
+    "href": "Chapters/Clinical_Trial_Design/Clinical_Trial_Design.html",
+    "title": "3  Clinical Trial Design",
+    "section": "",
+    "text": "3.1 Study Type",
+    "crumbs": [
+      "Clinical Trial Design",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Clinical Trial Design</span>"
+    ]
+  },
+  {
+    "objectID": "Chapters/Clinical_Trial_Design/Clinical_Trial_Design.html#sec-Study_Type",
+    "href": "Chapters/Clinical_Trial_Design/Clinical_Trial_Design.html#sec-Study_Type",
+    "title": "3  Clinical Trial Design",
+    "section": "",
+    "text": "3.1.1 Randomized Clinical Trials\n\n\n3.1.2 Observational Studies\n\n\n3.1.3 Real-World Evidence",
+    "crumbs": [
+      "Clinical Trial Design",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Clinical Trial Design</span>"
+    ]
+  },
+  {
+    "objectID": "Chapters/Clinical_Trial_Design/Clinical_Trial_Design.html#sec-Structure_Allocation",
+    "href": "Chapters/Clinical_Trial_Design/Clinical_Trial_Design.html#sec-Structure_Allocation",
+    "title": "3  Clinical Trial Design",
+    "section": "3.2 Structure and Allocation",
+    "text": "3.2 Structure and Allocation\n\n3.2.1 Parallel Group Trial Design\n\n\n3.2.2 Cross-Over Design\n\n\n3.2.3 Factorial Design\n\n\n3.2.4 Withdrawal Trial",
+    "crumbs": [
+      "Clinical Trial Design",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Clinical Trial Design</span>"
+    ]
+  },
+  {
+    "objectID": "Chapters/Clinical_Trial_Design/Clinical_Trial_Design.html#sec-Comparator",
+    "href": "Chapters/Clinical_Trial_Design/Clinical_Trial_Design.html#sec-Comparator",
+    "title": "3  Clinical Trial Design",
+    "section": "3.3 Comparator",
+    "text": "3.3 Comparator\n\n3.3.1 Control Groups\n\n\n3.3.2 Active Groups",
+    "crumbs": [
+      "Clinical Trial Design",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Clinical Trial Design</span>"
+    ]
+  },
+  {
+    "objectID": "Chapters/Clinical_Trial_Design/Clinical_Trial_Design.html#sec-Analysis_Objective",
+    "href": "Chapters/Clinical_Trial_Design/Clinical_Trial_Design.html#sec-Analysis_Objective",
+    "title": "3  Clinical Trial Design",
+    "section": "3.4 Analysis Objective",
+    "text": "3.4 Analysis Objective\n\n3.4.1 Superiority, Non-Inferiority, and Equivalence",
+    "crumbs": [
+      "Clinical Trial Design",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Clinical Trial Design</span>"
+    ]
+  },
+  {
+    "objectID": "Chapters/Clinical_Trial_Design/Clinical_Trial_Design.html#sec-Adaptivity",
+    "href": "Chapters/Clinical_Trial_Design/Clinical_Trial_Design.html#sec-Adaptivity",
+    "title": "3  Clinical Trial Design",
+    "section": "3.5 Adaptivity",
+    "text": "3.5 Adaptivity\n\n3.5.1 Adaptive Design",
+    "crumbs": [
+      "Clinical Trial Design",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Clinical Trial Design</span>"
+    ]
+  },
+  {
+    "objectID": "Chapters/Clinical_Trial_Design/Randomization.html",
+    "href": "Chapters/Clinical_Trial_Design/Randomization.html",
+    "title": "4  Randomization",
+    "section": "",
+    "text": "4.1 Simple Randomization\nRandomization is the allocation of participants to treatment arms by a chance mechanism rather than by choice. Its purpose is to remove bias at the point of allocation (where blinding (see Chapter 5) protects against bias afterwards) and to balance both known and unknown prognostic factors across treatment arms, so that any systematic difference observed at the end of the clinical trial can be attributed to treatment rather than to how participants were assigned. It also provides the formal justification for the statistical inference that follows, since randomization itself creates the basis for the comparison.\nEach participant is allocated independently, for example by the equivalent of a coin toss for a two-arm trial. This is straightforward and completely unpredictable, which makes concealment easy. Its weakness is that, purely by chance, it can produce noticeable imbalance in the number of participants per arm, and this imbalance is most pronounced in small trials. In large trials the imbalance tends to be negligible, so simple randomization is most appropriate when the sample size (see ?sec-Sample_Size) is large.",
+    "crumbs": [
+      "Clinical Trial Design",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Randomization</span>"
+    ]
+  },
+  {
+    "objectID": "Chapters/Clinical_Trial_Design/Randomization.html#sec-Block_Randomization",
+    "href": "Chapters/Clinical_Trial_Design/Randomization.html#sec-Block_Randomization",
+    "title": "4  Randomization",
+    "section": "4.2 Block Randomization",
+    "text": "4.2 Block Randomization\nParticipants are allocated in blocks so that the arms stay balanced after every completed block. Within each block the allocation ratio is fixed, which keeps the arm sizes close throughout recruitment and is useful when enrolment is staggered over time. The block size must be concealed, because a predictable block length allows the final allocations in a block to be guessed, threatening concealment; using varying and undisclosed block sizes mitigates this risk.",
+    "crumbs": [
+      "Clinical Trial Design",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Randomization</span>"
+    ]
+  },
+  {
+    "objectID": "Chapters/Clinical_Trial_Design/Randomization.html#sec-Stratified_Randomization",
+    "href": "Chapters/Clinical_Trial_Design/Randomization.html#sec-Stratified_Randomization",
+    "title": "4  Randomization",
+    "section": "4.3 Stratified Randomization",
+    "text": "4.3 Stratified Randomization\nWhen a small number of prognostic factors are known to strongly influence the outcome, separate randomization lists are prepared within each stratum defined by those factors, most often combined with block randomization inside each stratum. This guarantees balance on the chosen factors rather than relying on chance, but the number of strata must be kept small, since too many strata relative to the sample size undermines the scheme. Any factor used for stratification should generally also be accounted for in the analysis.",
+    "crumbs": [
+      "Clinical Trial Design",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Randomization</span>"
+    ]
+  },
+  {
+    "objectID": "Chapters/Clinical_Trial_Design/Randomization.html#sec-Allocation_Concealment",
+    "href": "Chapters/Clinical_Trial_Design/Randomization.html#sec-Allocation_Concealment",
+    "title": "4  Randomization",
+    "section": "4.4 Allocation Concealment",
+    "text": "4.4 Allocation Concealment\nAllocation concealment ensures that the person enrolling a participant cannot foresee the upcoming assignment before the participant is irrevocably entered into the trial. It differs from blinding: concealment protects the integrity of the allocation process itself, whereas blinding protects conduct and assessment after allocation. In practice this is achieved through a central randomization system, so that the assignment is issued only once eligibility is confirmed and the participant is committed to the trial.",
+    "crumbs": [
+      "Clinical Trial Design",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Randomization</span>"
+    ]
+  },
+  {
+    "objectID": "Chapters/Clinical_Trial_Design/Blinding.html",
+    "href": "Chapters/Clinical_Trial_Design/Blinding.html",
+    "title": "5  Blinding",
+    "section": "",
+    "text": "5.1 Open-Label Trial\nBlinding is the practice of withholding knowledge of treatment assignment from one or more parties in a clinical trial. While randomization (see Chapter 4) protects against bias at the point of allocation, blinding protects against bias after allocation, since how participants report symptoms, how investigators manage and assess them, and how data are handled and analysed can all be influenced, consciously or not, by knowing who receives which treatment (International Council for Harmonisation of Technical Requirements for Pharmaceuticals for Human Use 1998). Bias can arise when participants or investigators behave differently depending on the assigned treatment, for instance through more concomitant medication or closer follow-up. Bias can also arise when outcome assessors judge subjective endpoints more favourably in the group they expect to perform better. Bias can also arise when participants who suspect they receive placebo over-report a lack of effect, or if knowledge of assignment drives differential withdrawal, which creates missing data (see Chapter 14) patterns.\nHow far this protection extends depends on how many parties are kept unaware of the assignment. In a single-blind trial only the participant is blinded. In a double-blind trial both the participant and the investigator and site staff are blinded (default for confirmatory trials whenever it can be achieved (International Council for Harmonisation of Technical Requirements for Pharmaceuticals for Human Use 1998)). A triple-blind trial goes further and keeps those assessing outcomes, the sponsor team, or the statistician analysing the data blinded as well. Deciding who is blinded is only the intention; keeping them blinded requires practical machinery. Matching placebos must be identical in appearance, taste, and administration schedule, and when two active treatments cannot be made to look alike a double-dummy design is used, in which each participant receives one active and one placebo formulation. Any data that could reveal assignment indirectly, such as characteristic laboratory changes or well-known side effects, has to be handled centrally so that it does not undo the blind through the back door.\nBlinding can be put under strain by interim analyses (see Chapter 13), the point in a trial where someone must look at accumulating data by treatment arm. The key distinction is between blinded and unblinded interim procedures. Blinded, non-comparative interims use pooled data without any knowledge of treatment assignment, as in blinded sample size re-estimation based on the overall event rate or the pooled variance, and because no comparative information is revealed they generally do not inflate the type I error or compromise trial integrity. Unblinded, comparative interims are a different matter. Group-sequential efficacy or futility looks require access to treatment-level results, and to protect the trial that access is confined to an independent Data Monitoring Committee supported by an independent statistician, separated from the sponsor and site personnel by a strict firewall. The sponsor team responsible for trial conduct should see at most the committee’s recommendation to continue, modify, or stop, and never the interim treatment effect itself, because even seemingly innocuous leakage matters: learning only that the trial has passed a futility boundary still conveys information about the effect size and can bias subsequent conduct. Operational discipline therefore matters as much as the statistics, since interim results that leak can change investigator behaviour, recruitment patterns, and endpoint assessment for the remainder of the trial, undermining precisely what blinding was meant to protect.\nA clinical trial can also be run as an open-label trial, in which all parties are aware of the treatment assignment. This is sometimes necessary when blinding is impossible or unethical, for instance when comparing a surgical intervention to a drug, or when the treatment has a distinctive administration schedule or side effect profile that cannot be masked. In such cases, other measures must be taken to mitigate bias, such as using objective endpoints, independent outcome adjudication, and standardized protocols for patient management. Open-label trials are often used in early-phase clinical trials (see Chapter 2) to assess safety and tolerability, or in long-term extension studies where blinding is impractical.\nEven with these safeguards, the residual weakness of open-label trials is behavioural. Differential withdrawal, differential use of concomitant therapy, and expectation effects on patient-reported outcomes cannot be fully designed away, and they should be anticipated in the estimand discussion and probed through the sensitivity analyses (see Chapter 15).",
+    "crumbs": [
+      "Clinical Trial Design",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Blinding</span>"
+    ]
+  },
+  {
+    "objectID": "Chapters/Clinical_Trial_Design/Blinding.html#sec-Unblinding",
+    "href": "Chapters/Clinical_Trial_Design/Blinding.html#sec-Unblinding",
+    "title": "5  Blinding",
+    "section": "5.2 Unblinding",
+    "text": "5.2 Unblinding\nProvisions for emergency unblinding of individual participants must be in place throughout the trial, typically for occasions when an adverse event requires knowledge of the treatment for clinical management. Such unblinding should be documented, limited to the individual participant, and should not reveal assignment to trial staff more broadly than necessary. At the end of the trial, the blind is formally broken only after database lock and, ideally, after the analysis population classifications (see Chapter 10) and the SAP have been finalized, so that no analytical decision can be influenced by knowledge of the treatment results.",
+    "crumbs": [
+      "Clinical Trial Design",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Blinding</span>"
+    ]
+  },
+  {
+    "objectID": "Chapters/Estimands_Framework/Estimands.html",
+    "href": "Chapters/Estimands_Framework/Estimands.html",
+    "title": "6  Estimands",
+    "section": "",
+    "text": "An estimand is a precise description of the treatment effect that a trial sets out to measure. Its purpose is simple; it separates the question “what do we want to estimate?” from the estimator, which answers “how do we estimate it?”. An estimand is defined by: treatment, population, variable, endpoint, and intercurrent events (see Chapter 7), all elements that must be clearly specified to ensure the trial’s objectives are accurately addressed.\n(International Council for Harmonisation of Technical Requirements for Pharmaceuticals for Human Use 2019) provides a framework for defining estimands in clinical trials, emphasizing the importance of aligning the estimand with the trial’s objectives and the scientific question of interest. This framework helps to clarify the treatment effect being estimated and ensures that the analysis is appropriately designed to answer the research question.\n\n\n\nReferences\n\n\nInternational Council for Harmonisation of Technical Requirements for Pharmaceuticals for Human Use. 2019. E9(R1): Addendum on Estimands and Sensitivity Analysis in Clinical Trials to the Guideline on Statistical Principles for Clinical Trials. Harmonised Guideline. ICH. https://database.ich.org/sites/default/files/E9-R1_Step4_Guideline_2019_1203.pdf.",
+    "crumbs": [
+      "Estimands Framework",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Estimands</span>"
+    ]
+  },
+  {
+    "objectID": "Chapters/Estimands_Framework/Intercurrent_Events.html",
+    "href": "Chapters/Estimands_Framework/Intercurrent_Events.html",
+    "title": "7  Intercurrent Events",
+    "section": "",
+    "text": "7.1 Adverse Events\nIntercurrent events are events that occur after treatment initiation and either prevent the endpoint from being observed or change its interpretation. Common examples include treatment discontinuation, use of rescue medication, switching to another therapy, and death. Because these events affect what the endpoint actually measures, they must be identified in advance and each one paired with a treatment strategy (see Chapter 8) that describes how it is handled in the estimand. Ignoring intercurrent events, or handling them implicitly, leaves the treatment effect ambiguous. Depending on the treatment strategy, the treatment effect may be interpreted as the effect of treatment in the presence of the intercurrent event, or as the effect that would have been seen had the event not occurred. The estimand framework makes these choices explicit, and it is important to ensure that the chosen strategy matches the clinical question of interest.\nAn adverse event (AE) is any unfavourable medical occurrence in a subject during the trial, whether or not it is considered related to the treatment (International Council for Harmonisation of Technical Requirements for Pharmaceuticals for Human Use 1995). AEs become intercurrent events when they lead to actions that affect the endpoint (see Chapter 9), such as dose reduction, treatment discontinuation, or initiation of rescue medication. The chosen treatment strategy (see Chapter 8) determines how these situations enter the analysis: a treatment policy strategy keeps the observed outcome regardless of the event, whereas a hypothetical strategy targets the outcome that would have been seen had the event not occurred. Distinguishing the AE itself from the clinical response to it is essential for defining a coherent estimand.",
+    "crumbs": [
+      "Estimands Framework",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Intercurrent Events</span>"
+    ]
+  },
+  {
+    "objectID": "Chapters/Estimands_Framework/Intercurrent_Events.html#sec-Adverse_Events",
+    "href": "Chapters/Estimands_Framework/Intercurrent_Events.html#sec-Adverse_Events",
+    "title": "7  Intercurrent Events",
+    "section": "",
+    "text": "7.1.1 Serious Adverse Events\nA serious adverse event (SAE) is one that meets at least one regulatory seriousness criterion: it results in death, is life-threatening, requires or prolongs hospitalisation, causes persistent or significant disability, leads to a congenital anomaly, or is otherwise judged medically important (International Council for Harmonisation of Technical Requirements for Pharmaceuticals for Human Use 1995). Seriousness reflects the outcome or severity of consequences, not the causal relationship to treatment. SAEs often drive intercurrent events such as treatment discontinuation or death, and they carry expedited reporting obligations, so their handling in the estimand and their pathway through safety surveillance must both be considered.\n\n\n7.1.2 Adverse Events of Special Interest\nAn AE of special interest is a pre-specified event, whether serious or not, that warrants closer monitoring because of a known or suspected association with the treatment. These events are defined in advance in the trial protocol (see Chapter 18), often through standardised medical queries, and may trigger additional data collection or independent review. Identifying them prospectively allows consistent capture across the programme and supports focused benefit-risk assessment.",
+    "crumbs": [
+      "Estimands Framework",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Intercurrent Events</span>"
+    ]
+  },
+  {
+    "objectID": "Chapters/Estimands_Framework/Treatment_Strategies.html",
+    "href": "Chapters/Estimands_Framework/Treatment_Strategies.html",
+    "title": "8  Treatment Strategies",
+    "section": "",
+    "text": "8.1 Treatment policy\nA treatment strategy describes how a specific intercurrent event (see Chapter 7) is accounted for in the estimand. (International Council for Harmonisation of Technical Requirements for Pharmaceuticals for Human Use 2019) sets out five treatment strategies. Different intercurrent events in the same trial can use different strategies, depending on the desired clinical question.\nThe occurrence of the intercurrent event is ignored. The endpoint value is used whether or not the event happened. The event becomes part of the treatment conditions being compared.\nThis strategy matches the classical intention-to-treat idea. It reflects clinical practice, because it includes what patients actually do after starting treatment. One limitation is important: it cannot be used when the endpoint cannot exist after the event, such as an outcome measured after death.",
+    "crumbs": [
+      "Estimands Framework",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Treatment Strategies</span>"
+    ]
+  },
+  {
+    "objectID": "Chapters/Estimands_Framework/Treatment_Strategies.html#sec-Composite",
+    "href": "Chapters/Estimands_Framework/Treatment_Strategies.html#sec-Composite",
+    "title": "8  Treatment Strategies",
+    "section": "8.2 Composite",
+    "text": "8.2 Composite\nThe intercurrent event is built into the endpoint itself. The event is combined with the clinical outcome to form a single variable.\nFor example, a subject might be counted as a responder only if they reach a target and did not need rescue medication. This is useful when the event is itself a meaningful outcome. If the endpoint is turned into responder / non-responder, the clinical threshold must be justified.",
+    "crumbs": [
+      "Estimands Framework",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Treatment Strategies</span>"
+    ]
+  },
+  {
+    "objectID": "Chapters/Estimands_Framework/Treatment_Strategies.html#sec-Hypothetical",
+    "href": "Chapters/Estimands_Framework/Treatment_Strategies.html#sec-Hypothetical",
+    "title": "8  Treatment Strategies",
+    "section": "8.3 Hypothetical",
+    "text": "8.3 Hypothetical\nWe imagine a scenario in which the intercurrent event does not occur. The value of interest is the one the endpoint would have taken in that scenario.\nThe hypothetical scenario must be described carefully, because the estimand is not well defined without it. Not every scenario is acceptable to regulators. “What effect would we see if rescue medication had not been available?” may be acceptable. “What effect would we see if no one discontinued due to adverse events?” is often not of clinical or regulatory interest.",
+    "crumbs": [
+      "Estimands Framework",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Treatment Strategies</span>"
+    ]
+  },
+  {
+    "objectID": "Chapters/Estimands_Framework/Treatment_Strategies.html#sec-Principal_Stratum",
+    "href": "Chapters/Estimands_Framework/Treatment_Strategies.html#sec-Principal_Stratum",
+    "title": "8  Treatment Strategies",
+    "section": "8.4 Principal stratum",
+    "text": "8.4 Principal stratum\nThe population is restricted to the stratum of patients who would not experience the intercurrent event, regardless of the treatment they were assigned. The effect is estimated within that stratum.\nThis is defined by potential behaviour under both treatments, not by observed data. It must not be confused with a per-protocol set, a complete-case set, or any subgroup defined by post-randomisation data.",
+    "crumbs": [
+      "Estimands Framework",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Treatment Strategies</span>"
+    ]
+  },
+  {
+    "objectID": "Chapters/Estimands_Framework/Treatment_Strategies.html#sec-While_on_Treatment",
+    "href": "Chapters/Estimands_Framework/Treatment_Strategies.html#sec-While_on_Treatment",
+    "title": "8  Treatment Strategies",
+    "section": "8.5 While on treatment",
+    "text": "8.5 While on treatment\nThe response is measured up to the time of the intercurrent event, rather than at the planned assessment point.\nThis can be relevant in symptom trials with terminally ill patients. An underlying assumption is that the timing does not matter, for example that the rate of change over time is constant.",
+    "crumbs": [
+      "Estimands Framework",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Treatment Strategies</span>"
+    ]
+  },
+  {
+    "objectID": "Chapters/Statistical_Considerations/Analysis_Populations.html",
+    "href": "Chapters/Statistical_Considerations/Analysis_Populations.html",
+    "title": "10  Analysis Populations",
+    "section": "",
+    "text": "10.1 Safety Population",
+    "crumbs": [
+      "Statistical Considerations",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Analysis Populations</span>"
+    ]
+  },
+  {
+    "objectID": "Chapters/Statistical_Considerations/Analysis_Populations.html#sec-Full_Analysis_Set",
+    "href": "Chapters/Statistical_Considerations/Analysis_Populations.html#sec-Full_Analysis_Set",
+    "title": "10  Analysis Populations",
+    "section": "10.2 Full Analysis Set",
+    "text": "10.2 Full Analysis Set",
+    "crumbs": [
+      "Statistical Considerations",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Analysis Populations</span>"
+    ]
+  },
+  {
+    "objectID": "Chapters/Statistical_Considerations/Multiplicity.html",
+    "href": "Chapters/Statistical_Considerations/Multiplicity.html",
+    "title": "12  Multiplicity",
+    "section": "",
+    "text": "Most clinical trials test more than one thing. They may include several treatments, objectives, endpoints, and hypotheses. Every extra test adds a fresh chance of a false-positive result. So a p-value must always be read in the context of how many hypotheses were tested and how important each one is.\nThe formal goal is strong control of the family-wise type I error rate. This keeps the probability of any false-positive claim within the family of hypotheses at or below the target level, usually 5% (two-sided).",
+    "crumbs": [
+      "Statistical Considerations",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Multiplicity</span>"
+    ]
+  },
+  {
+    "objectID": "Chapters/Missing_Data/Missing_Data.html",
+    "href": "Chapters/Missing_Data/Missing_Data.html",
+    "title": "14  Missing Data",
+    "section": "",
+    "text": "14.1 Multiple Imputation",
+    "crumbs": [
+      "Missing Data and Sensitivity",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Missing Data</span>"
+    ]
+  },
+  {
+    "objectID": "Chapters/Missing_Data/Sensitivity_Analyses.html",
+    "href": "Chapters/Missing_Data/Sensitivity_Analyses.html",
+    "title": "15  Sensitivity Analyses",
+    "section": "",
+    "text": "15.1 Tipping Point Analyses\nSensitivity analyses explore the robustness of the primary analysis when key assumptions are varied (International Council for Harmonisation of Technical Requirements for Pharmaceuticals for Human Use 2019). Often, a sensitivity analysis is performed to assess the impact of missing data on the primary analysis. The primary analysis is typically based on a set of assumptions about the missing data mechanism, and sensitivity analyses can help evaluate how sensitive the results are to these assumptions. Sensitivity analyses can help identify potential biases and provide a more comprehensive understanding of the treatment effect.\nTipping point analyses are a type of sensitivity analysis that systematically vary the assumptions about missing data to determine the point at which the conclusions of the primary analysis would change. This helps to identify how sensitive the results are to different assumptions and can provide insight into the potential impact of missing data on the study’s conclusions.",
+    "crumbs": [
+      "Missing Data and Sensitivity",
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Sensitivity Analyses</span>"
+    ]
+  },
+  {
+    "objectID": "Chapters/Missing_Data/Sensitivity_Analyses.html#sec-Reference_Based_Imputation",
+    "href": "Chapters/Missing_Data/Sensitivity_Analyses.html#sec-Reference_Based_Imputation",
+    "title": "15  Sensitivity Analyses",
+    "section": "15.2 Reference-Based Imputation",
+    "text": "15.2 Reference-Based Imputation",
+    "crumbs": [
+      "Missing Data and Sensitivity",
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Sensitivity Analyses</span>"
+    ]
+  },
+  {
+    "objectID": "Chapters/Missing_Data/Sensitivity_Analyses.html#sec-Jump_to_Reference",
+    "href": "Chapters/Missing_Data/Sensitivity_Analyses.html#sec-Jump_to_Reference",
+    "title": "15  Sensitivity Analyses",
+    "section": "15.3 Jump to Reference",
+    "text": "15.3 Jump to Reference",
+    "crumbs": [
+      "Missing Data and Sensitivity",
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Sensitivity Analyses</span>"
+    ]
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "International Council for Harmonisation of Technical Requirements for\nPharmaceuticals for Human Use. 1995. E2A: Clinical\nSafety Data Management: Definitions and Standards for Expedited\nReporting. Harmonised Tripartite Guideline. ICH. https://database.ich.org/sites/default/files/E2A_Guideline.pdf.\n\n\nInternational Council for Harmonisation of Technical Requirements for\nPharmaceuticals for Human Use. 1998. E9: Statistical\nPrinciples for Clinical Trials. Harmonised Tripartite Guideline.\nICH. https://database.ich.org/sites/default/files/E9_Guideline.pdf.\n\n\nInternational Council for Harmonisation of Technical Requirements for\nPharmaceuticals for Human Use. 2019. E9(R1): Addendum\non Estimands and Sensitivity Analysis in Clinical Trials to the\nGuideline on Statistical Principles for Clinical Trials. Harmonised\nGuideline. ICH. https://database.ich.org/sites/default/files/E9-R1_Step4_Guideline_2019_1203.pdf.",
+    "crumbs": [
+      "References"
+    ]
+  }
+]

@@ -1,4 +1,0 @@
-# Missing Data {#sec-Missing_Data}
-
-
-## Multiple Imputation {#sec-Multiple_Imputation}
