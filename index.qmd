@@ -1,1 +1,6 @@
 # Introduction {#sec-Introduction}
+PharmaNotes is a concise information resource on clinical trials. The emphasis throughout is on the *why* as much as the *how*. A clinical trial is a long chain of choices, from the phase and design of the study, through the precise definition of the treatment effect of interest, to the handling of missing data and the reporting of results. Each link in that chain is easier to justify when its purpose is clearly understood, and this book aims to make those purposes explicit.
+
+
+## How to use it
+The chapters are largely self-contained and can be read in any order, but they are extensively cross-referenced so that related ideas can be followed as they arise. Terms and concepts introduced in one chapter are linked wherever they reappear, and full citations to the underlying guidelines and literature are collected in the [References](references.qmd).
