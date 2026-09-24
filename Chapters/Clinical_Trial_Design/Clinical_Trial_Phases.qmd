@@ -3,7 +3,7 @@ Drug development is organized into sequential phases to manage risk and answer q
 
 
 ## Phase I {#sec-Phase_I}
-First administration in humans, usually in a small group of healthy volunteers. The goal is to assess safety, tolerability, pharmacokinetics, and pharmacodynamics, and to identify a safe dose range rather than to demonstrate efficacy.
+First administration in humans, usually in a small group of healthy volunteers. The goal is to assess safety, tolerability, pharmacokinetics (PK), and pharmacodynamics (PD), and to identify a safe dose range rather than to demonstrate efficacy. To ensure that the variability of taking the drug is adequately captured, participants are often closely monitored and sampled at multiple time points.
 
 ### Phase 1a {#sec-Phase_1a}
 Single ascending dose (SAD) studies: individual participants (or small cohorts) receive a single dose, which is escalated across cohorts to find the maximum tolerated dose.
