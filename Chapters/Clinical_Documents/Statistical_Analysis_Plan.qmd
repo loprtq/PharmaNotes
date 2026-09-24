@@ -1,0 +1,20 @@
+# Statistical Analysis Plan {#sec-Statistical_Analysis_Plan}
+The Statistical Analysis Plan (SAP) is the document that translates the objectives of the clinical trial protocol (see @sec-Clinical_Trial_Protocol) into a complete and unambiguous description of the statistical methods to be used. A well-written SAP specifies, at a minimum, the following elements:
+
+- Trial objectives and hypotheses
+- [Estimands](#sec-Estimands)
+- [Analysis populations](#sec-Analysis_Populations)
+- [Endpoints](#sec-Endpoints)
+- [Sample size and power](#sec-Sample_Size)
+- Primary analysis method
+- [Secondary and supplementary analyses](#sec-Supplementary_Analyses)
+- [Multiplicity control](#sec-Multiplicity)
+- [Handling of missing data](#sec-Missing_Data)
+- [Sensitivity analyses](#sec-Sensitivity_Analyses)
+- [Interim analyses](#sec-Interim_Analyses)
+- Data handling conventions
+- [Presentation of results](#sec-Clinical_Study_Report)
+
+The SAP is a prospective document. It expands the statistical sections of the protocol into full operational detail and, crucially, is finalised and signed before the blind is broken and before any comparative analysis of the data is performed (see @sec-Blinding). This timing is what gives the plan its value: by committing to the analysis in advance, it removes the possibility of choosing methods after seeing the results, which is one of the most serious threats to the credibility of a trial. Any change made after this point must be documented as an amendment, with the reason and the timing recorded, so that a reader can distinguish pre-specified analyses from those decided later.
+
+Because it fixes these choices ahead of time, the SAP is the bridge between what the trial set out to measure and how that measurement is finally reported. Everything it prescribes flows from the estimands, so that the methods, the missing-data handling, and the sensitivity analyses all serve a single, clearly stated question rather than a loosely related collection of analyses. When the trial concludes, the analysis is executed as written and its output feeds directly into the clinical study report, where the pre-specified nature of each result can be taken at face value. A clear, complete, and genuinely pre-specified SAP therefore protects the integrity of the trial, makes the analysis reproducible, and gives regulators and readers confidence that the reported treatment effect reflects the data rather than the analyst's hindsight.

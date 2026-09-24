@@ -41,11 +41,11 @@ book:
         - Chapters/Missing_Data/Sensitivity_Analyses.qmd
         - Chapters/Missing_Data/Supplementary_Analyses.qmd
 
-    - part: "Clinical Reporting"
+    - part: "Clinical Documents"
       chapters:
-        - Chapters/Clinical_Reporting/Clinical_Study_Report.qmd
-        - Chapters/Clinical_Reporting/Clinical_Trial_Protocol.qmd
-        - Chapters/Clinical_Reporting/Statistical_Analysis_Plan.qmd
+        - Chapters/Clinical_Documents/Clinical_Study_Report.qmd
+        - Chapters/Clinical_Documents/Clinical_Trial_Protocol.qmd
+        - Chapters/Clinical_Documents/Statistical_Analysis_Plan.qmd
 
     - references.qmd
 

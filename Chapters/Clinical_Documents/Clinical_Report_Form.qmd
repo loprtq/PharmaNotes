@@ -1,0 +1,2 @@
+# Clinical Report Form {#sec-Clinical_Report_Form}
+A Clinical Report Form (CRF) is used in clinical trials to systematically collect data from participants. The CRF ensures that all necessary information is captured accurately and consistently, facilitating reliable analysis and regulatory compliance.
